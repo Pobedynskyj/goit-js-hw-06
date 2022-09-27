@@ -25,6 +25,11 @@ button {
 
 .list {
   display: flex;
-  position: absolute;
   flex-direction: column;
+}
+
+.img-gallery {
+  width: 500px;
+  margin: auto;
+  padding: 20px;
 }
